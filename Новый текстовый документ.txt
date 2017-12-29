@@ -40,7 +40,7 @@ Nick_Waze[32]
 Noah_Callesen[6]
 Prince_Creator[81]
 Qoq_Odez[35]
-"	Richi_Montero [5]"
+Richi_Montero [5]
 Riki_Tus [11]
 Roy_Boo [45]
 Rusak_Gold [37]
